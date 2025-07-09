@@ -1,6 +1,6 @@
 # 📊 Análise de Dados - E-commerce Brasileiro (Olist)
 
-Este projeto realiza uma análise exploratória dos dados de uma plataforma real de e-commerce brasileira, disponibilizada pela Olist no Kaggle. O objetivo é entender os padrões de compra, entrega, pagamento e satisfação dos clientes.
+Este projeto realiza uma análise exploratória dos dados de uma plataforma real de e-commerce brasileira, disponibilizada pela Olist no Kaggle. O objetivo é entender os padrões de compra, entrega, e satisfação dos clientes.
 
 ---
 
