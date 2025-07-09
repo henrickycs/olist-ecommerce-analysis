@@ -3,4 +3,4 @@ __pycache__/
 *.py[cod]
 *.pyo
 venv/
-.csv
+data/.csv
