@@ -7,7 +7,7 @@ Este projeto realiza uma análise exploratória dos dados de uma plataforma real
 ## 🔍 Objetivos da Análise
 
 - 📦 **Quais são as categorias de produtos mais vendidas?**
-- 🛒 **Qual o tempo médio de entrega e como ele varia entre os estados?**
+- 🛒 **Qual o tempo de entrega e como ele varia entre os estados?**
 - ⏳ **Atrasos nas entregas impactam as avaliações dos clientes?**
 
 ## 🗃️ Fonte dos Dados
