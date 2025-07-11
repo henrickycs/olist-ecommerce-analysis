@@ -1,5 +1,3 @@
-# 📁 Pasta: data/
-
 Este diretório armazena os arquivos de dados utilizados no projeto de análise da Olist.
 
 ## 📦 Fonte dos Dados
